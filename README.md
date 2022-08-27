@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I’m Misha
 
-<!--
-**MishanyaO/MishanyaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m currently learning JavaScript.Fullstack
 
-Here are some ideas to get you started:
+- 💻 I Like coding 
+- 🎸 Play the guitar
+- 🏄🏼‍♂️ Spotrs
+- 🧐 Like to learn new things
+- 🛤 Mad about travelling
+- 💬 Speak English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+[<img align = 'left' alt='MikhailOlianenko | Instagram' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg' />][https://instagram.com/mikhailolianenko?igshid=YmMyMTA2M2Y=]
