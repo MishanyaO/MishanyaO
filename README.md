@@ -9,7 +9,7 @@
 - 🏄🏼‍♂️ Sports
 - 🔍 Like to learn new things
 - 🛤 Mad about travelling
-- 💬 Speak English
+- 🇬🇧 Speak English
 
 ### Languages and tools
 ![Flutter](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
