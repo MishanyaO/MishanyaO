@@ -1,5 +1,7 @@
 ### Hi there 👋 I’m Misha
 
+![](https://komarev.com/ghpvc/?username=MishanyaO)
+
 ### I’m currently learning JavaScript.Fullstack 🧐
 
 - 💻 I Like coding 
@@ -15,5 +17,3 @@
 ### Connect with me
 [![Flutter](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://instagram.com/mikhailolianenko?igshid=YmMyMTA2M2Y=)
 [![Flutter](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/MishanyaO)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishanyaO&layout=compact)
