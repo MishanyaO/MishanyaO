@@ -1,8 +1,7 @@
 ### Hi there 👋 I’m Misha
 
-![](https://komarev.com/ghpvc/?username=MishanyaO)
 
-### I’m currently learning JavaScript.Fullstack 🧐
+### A passionate web-developer!
 
 - 💻 I Like coding 
 - 🎸 Play the guitar
@@ -13,7 +12,11 @@
 
 ### Languages and tools
 ![Flutter](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
-
+![Flutter](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)
+![Flutter](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
+![Flutter](https://img.shields.io/badge/-express-090909?style=for-the-badge&logo=express)
+![Flutter](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
 ### Connect with me
-[![Flutter](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://instagram.com/mikhailolianenko?igshid=YmMyMTA2M2Y=)
+
 [![Flutter](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/MishanyaO)
