@@ -1,14 +1,13 @@
 ### Hi there 👋 I’m Misha
 
 
-### A passionate web-developer!
+### A passionate Frontend developer!
 
-- 💻 I Like coding 
-- 🎸 Play the guitar
+- 💻 Coding 
+- 🎸 Guitar
 - 🏄🏼‍♂️ Sports
-- 🔍 Like to learn new things
-- 🛤 Mad about travelling
-- 🇬🇧 Speak English
+- 🔍 Education
+- 🛤 Travelling
 
 ### Languages and tools
 ![Flutter](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
