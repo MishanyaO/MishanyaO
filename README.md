@@ -21,3 +21,4 @@
 ### Connect with me
 
 [![Flutter](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/MishanyaO)
+[![Flutter](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=Gmail)](https://mikhail.olianenko@gmail.com)
