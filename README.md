@@ -13,10 +13,11 @@
 ![Flutter](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
 ![Flutter](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
 ![Flutter](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/-next-090909?style=for-the-badge&logo=next)
+![Flutter](https://img.shields.io/badge/-next.js-090909?style=for-the-badge&logo=next.js)
 ![Flutter](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)
 ![Flutter](https://img.shields.io/badge/-Graphql-090909?style=for-the-badge&logo=graphql)
 ![Flutter](https://img.shields.io/badge/-mui-090909?style=for-the-badge&logo=mui)
+![Flutter](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
 ### Connect with me
 
 [![Flutter](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/MishanyaO)
