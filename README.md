@@ -1,4 +1,4 @@
-### Hi there 👋 I’m Misha
+### Hi there 👋 I’m Mikhail
 
 
 ### A passionate Frontend developer!
