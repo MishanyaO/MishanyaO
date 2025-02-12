@@ -1,8 +1,8 @@
 ### Hello 👋 I’m Mike
 
 
-### A passionate Frontend developer!
-
+### A passionate Full Stack Developer!
+I like:
 - 💻 Coding 
 - 🎸 Guitar
 - 🏄🏼‍♂️ Sports
