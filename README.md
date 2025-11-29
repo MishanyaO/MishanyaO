@@ -17,7 +17,7 @@ I like:
 ![Flutter](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)
 ![Flutter](https://img.shields.io/badge/-Graphql-090909?style=for-the-badge&logo=graphql)
 ![Flutter](https://img.shields.io/badge/-mui-090909?style=for-the-badge&logo=mui)
-![Flutter](https://img.shields.io/badge/-aws-090909?style=for-the-badge&logo=aws)
+![Flutter](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
 ### Connect with me
 
 [![Flutter](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=Gmail)](https://mikhail.olianenko@gmail.com)
